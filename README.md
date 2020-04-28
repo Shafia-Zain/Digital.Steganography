@@ -1,6 +1,3 @@
-# Digital.Steganography
-
-
 <h1>Digital-image-steganography</h1>
 <h4>A solution for transmitting secret information with out affecting the unintended users, using multimedia as a covering medium.
 </h4>
@@ -11,7 +8,7 @@
 <h3>Abstract</h3>
 <hr>
 
-<h5>Steganography</h5> refers to the science of “invisible” communication. Unlike cryptography, 
+<h5>Steganography</h5>refers to the science of “invisible” communication. Unlike cryptography, 
 where the goal is to secure communications from an eavesdropper, steganographic techniques 
 strive to hide the very presence of the message itself from an observer. The general idea 
 of hiding some information in digital content has a wider class of applications that go 
