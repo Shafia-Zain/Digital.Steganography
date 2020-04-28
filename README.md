@@ -16,7 +16,7 @@ which are to be transmitted to the receiver. In the decoding phase, main focus i
 retrieved image back to the original image quality as much as possible from the shares in the 
 received end.
 
-<p> Already we have cryptography for transmitting secret information. Even though cryptography successfully transmitting secret information, it will give a suspicion to the hackers and it affects unintended users. This project, DIGITAL STEGANOGRAPHY overcomes this factor and it gives a solution for transmitting secret formation without affecting unintended users. Steganography uses multimedia data as a covering medium (Covering secret information). By using steganography data (secret information) can be hidden within data (multimedia data, here multimedia data is an image) and it can be sent anywhere to transfer the message easily without giving any suspicion to others.</p>
+<br>Already we have cryptography for transmitting secret information. Even though cryptography successfully transmitting secret information, it will give a suspicion to the hackers and it affects unintended users. This project, DIGITAL STEGANOGRAPHY overcomes this factor and it gives a solution for transmitting secret formation without affecting unintended users. Steganography uses multimedia data as a covering medium (Covering secret information). By using steganography data (secret information) can be hidden within data (multimedia data, here multimedia data is an image) and it can be sent anywhere to transfer the message easily without giving any suspicion to others.
 
 
 <hr>
