@@ -28,8 +28,7 @@ inside another image and retrieve it secretly later using the decoder only.
 
 Developed using:
 
-1. Matlab
-2. Java
+1. Java
 
 
 Paper: http://www.sciencedirect.com/science/article/pii/S2212017312003179
